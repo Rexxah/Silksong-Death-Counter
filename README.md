@@ -1,5 +1,9 @@
 # Silksong Death Counter 🎮💀
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d088b74f-f941-4fa8-8268-cbbaf3f61f97" />
+
+**TOP LEFT**
+
 A [BepInEx](https://github.com/BepInEx/BepInEx) plugin for Hollow Knight: Silksong that tracks player deaths, supports per-save counters, and displays stats on screen.
 
 ## ✨ Features
