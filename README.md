@@ -13,4 +13,5 @@ A [BepInEx](https://github.com/BepInEx/BepInEx) plugin for Hollow Knight: Silkso
 ## 📦 Installation
 1. Install [BepInEx 5.x](https://github.com/BepInEx/BepInEx/releases).
 2. Build the project as a `.dll` (target .NET Framework 4.x).
-3. Copy `SilksongDeathCounter.dll` into:
+3. Copy `SilksongDeathCounter.dll` into: <game folder>/BepInEx/plugins/SilksongDeathCounter
+4. Start the game. A config file will be created under: BepInEx/config/com.peacestudio.silksongdeathcounter.cfg
