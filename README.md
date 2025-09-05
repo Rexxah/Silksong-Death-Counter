@@ -15,3 +15,22 @@ A [BepInEx](https://github.com/BepInEx/BepInEx) plugin for Hollow Knight: Silkso
 2. Build the project as a `.dll` (target .NET Framework 4.x).
 3. Copy `SilksongDeathCounter.dll` into: <game folder>/BepInEx/plugins/SilksongDeathCounter
 4. Start the game. A config file will be created under: BepInEx/config/com.peacestudio.silksongdeathcounter.cfg
+
+## ⚙️ Configuration
+```ini
+[General]
+TotalDeaths = 12
+
+[Hotkeys]
+ResetRunDeaths = F10
+
+[Save_0]
+TotalDeaths = 8
+
+[Save_1]
+TotalDeaths = 4
+```
+
+## 🎮 Controls
+- **F10** → Reset run death counter.
+- Death counters are displayed in the top-left corner of the screen.
