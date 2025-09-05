@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\SilksongDeathCounter\bin\Release\SilksongDeathCounter.dll
+C:\Users\PC\source\repos\SilksongDeathCounter\bin\Release\SilksongDeathCounter.pdb
+C:\Users\PC\source\repos\SilksongDeathCounter\obj\Release\SilksongDeathCounter.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SilksongDeathCounter\obj\Release\SilksongDeathCounter.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SilksongDeathCounter\obj\Release\SilksongDeathCounter.dll
+C:\Users\PC\source\repos\SilksongDeathCounter\obj\Release\SilksongDeathCounter.pdb
